@@ -1,9 +1,7 @@
-# Lab-01---Python
-Projeto Interno 01 - Python (Blueshift Brasil)
+# Proj-01---Python
+Projeto 01 - Python 
 
-Projeto PoccoBus
-
-Objetivo: Desenvolver um sistema de venda de passagens usando Python. Ela compartilhou a visão dos assentos e as orientações sobre quais espaços devem estar a venda para que possamos nos basear durante o desenvolvimento do algoritmo. 
+Objetivo: Desenvolver um sistema de venda de passagens usando Python. Compartilhar a visão dos assentos e as orientações sobre quais espaços devem estar a venda para que possamos nos basear durante o desenvolvimento do algoritmo. 
 Visão dos assentos:
 - Azul: Assento do motorista
 - Cinza: Corredor e parte da frente do ônibus
